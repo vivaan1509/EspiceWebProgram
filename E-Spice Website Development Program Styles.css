@@ -1,0 +1,283 @@
+/* E-Spice Website Development Program (CSS) */
+
+/* Starting */
+
+/* Skribble */
+.skribble{
+    font-family: arial;
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+}
+/* Skribble */
+
+/* Skribble hr tag */
+.skribblehr{
+    width: 120%;
+}
+/* Skribble hr tag */
+
+/* Notebooks */
+.notebooks{
+    font-family: arial;
+    position: relative;
+    left: 100px;
+    text-decoration: none;
+}
+.notebooks small{
+    font-family: arial;
+    position: relative;
+    left: 600px;
+    color: lightslategray;
+    text-decoration: none;
+}
+/* Notebooks */
+
+/* Notebooks hr tag */
+.mynotebooks{
+    position: relative;
+    left: 100px;
+    right: 100px;
+    color: lightsteelblue;
+    width: 67%;
+    margin: 0 -7px;
+}
+/* Notebooks hr tag */
+
+/* Create new notebook */
+.newnotebook span{
+    position: relative;
+    left: 600px;
+    font-family: arial;
+}
+.newnotebook{
+    max-width: 100%;
+    width: 775px;
+    margin: 5px auto;
+    padding: 5px 40px;
+    position: relative;
+    left: -110px;
+    font-family: arial;
+    color: blue;
+    background-color: rgb(206, 243, 255);
+    border: 0.5px solid blue;
+    border-radius: 10px;
+}
+/* Create new notebook */
+
+/* Arnav's notebook */
+.arnavnotebook{
+    font-family: arial;
+}
+.a{
+    position: relative;
+    top: 13px;
+    left: 135px;
+    background-color: lightgray;
+    border: 0.5px solid #F3F3F3;
+    border-radius: 8px;
+    color: #2C2C2C;
+    display: inline;
+    padding: 10px;
+}
+.arnav{
+    position: relative;
+    left: 183px;
+    top: 5px;
+   
+}
+.arnavcreated{
+    color: slategray;
+    position: relative;
+    left: 43px;
+    top: 20px;
+}
+.helloarnav{
+    position: relative;
+    left: -207px;
+    top: 12.5px;
+    color: white;
+    padding: 15px 410.5px;
+    border: 0.5px solid lightslategray;
+    border-radius: 8px;
+}
+.deletearnav{
+    position: relative;
+    left: 750px;
+    top: 11px;
+}
+/* Arnav's notebook */
+
+/* Raghav's notebook */
+.raghavnotebook{
+    font-family: arial;
+}
+.r{
+    position: relative;
+    top: 42px;
+    left: 135px;
+    background-color: lightgray;
+    border: 0.5px solid #F3F3F3;
+    border-radius: 8px;
+    color: #2C2C2C;
+    display: inline;
+    padding: 10px;
+}
+.raghav{
+    position: relative;
+    left: 183px;
+    top: 34.5px;
+   
+}
+.raghavcreated{
+    color: slategray;
+    position: relative;
+    left: 31px;
+    top: 49.5px;
+}
+.helloraghav{
+    position: relative;
+    left: -221px;
+    top: 42px;
+    color: white;
+    padding: 15px 410.5px;
+    border: 0.5px solid lightslategray;
+    border-radius: 8px;
+}
+.deleteraghav{
+    position: relative;
+    left: 736px;
+    top: 40.5px;
+}
+/* Raghav's notebook */
+
+/* DPS Noida */
+.dpsnnotebook{
+    font-family: arial;
+}
+.d{
+    position: relative;
+    top: 71px;
+    left: 135px;
+    background-color: lightgray;
+    border: 0.5px solid #F3F3F3;
+    border-radius: 8px;
+    color: #2C2C2C;
+    display: inline;
+    padding: 10px;
+}
+.dpsn{
+    position: relative;
+    left: 183px;
+    top: 64px;
+   
+}
+.dpsncreated{
+    color: slategray;
+    position: relative;
+    left: 87px;
+    top: 78px;
+}
+.hellodpsn{
+    position: relative;
+    left: -164px;
+    top: 71.8px;
+    color: white;
+    padding: 15px 410.5px;
+    border: 0.5px solid lightslategray;
+    border-radius: 8px;
+}
+.deletedpsn{
+    position: relative;
+    left: 793px;
+    top: 71px;
+}
+/* DPS Noida */
+
+/* Chemistry */
+.chemistrynotebook{
+    font-family: arial;
+}
+.c{
+    position: relative;
+    top: 100px;
+    left: 135px;
+    background-color: lightgray;
+    border: 0.5px solid #F3F3F3;
+    border-radius: 8px;
+    color: #2C2C2C;
+    display: inline;
+    padding: 10px;
+}
+.chemistry{
+    position: relative;
+    left: 183px;
+    top: 93.5px;
+   
+}
+.chemistrycreated{
+    color: slategray;
+    position: relative;
+    left: 95.5px;
+    top: 106.8px;
+}
+.hellochemistry{
+    position: relative;
+    left: -157.6px;
+    top: 100px;
+    color: white;
+    padding: 15px 410.5px;
+    border: 0.5px solid lightslategray;
+    border-radius: 8px;
+}
+.deletechemistry{
+    position: relative;
+    left: 800px;
+    top: 100px;
+}
+/* Chemistry */
+
+/* Physics */
+.physicsnotebook{
+    font-family: arial;
+}
+.p{
+    position: relative;
+    top: 132px;
+    left: 135px;
+    background-color: lightgray;
+    border: 0.5px solid #F3F3F3;
+    border-radius: 8px;
+    color: #2C2C2C;
+    display: inline;
+    padding: 10px;
+}
+.physics{
+    position: relative;
+    left: 184.5px;
+    top: 125.5px;
+   
+}
+.physicscreated{
+    color: slategray;
+    position: relative;
+    left: 113px;
+    top: 138.8px;
+}
+.hellophysics{
+    position: relative;
+    left: -139.5px;
+    top: 132px;
+    color: white;
+    padding: 15px 410.5px;
+    border: 0.5px solid lightslategray;
+    border-radius: 8px;
+}
+.deletephysics{
+    position: relative;
+    left: 818px;
+    top: 132px;
+}
+/* Physics */
+
+/* Ending */
