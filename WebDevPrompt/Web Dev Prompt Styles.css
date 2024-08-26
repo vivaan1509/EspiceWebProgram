@@ -1,0 +1,93 @@
+header{
+    background-color: lightskyblue;
+    border-radius: 10px;
+}
+.welcome{
+    position: relative;
+    left: 100px;
+    color: white;
+}
+.gh{
+    color: lightslategray; 
+}
+.fgh{
+    color: lightgoldenrodyellow;
+}
+.introduction{
+    color: darkslategrey;
+    text-align: center;
+    position: relative;
+    right: 3px;
+    text-shadow: 2px 2px lightgray;
+}
+.center-one{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.center-two{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    position: relative;
+    top: 30px;
+}
+.center-one:hover{
+    position: relative;
+    top: -6px;
+}
+.center-two:hover{
+    position: relative;
+    top: 24px;
+}
+.disclaimer{
+    color: lightslategray;
+    padding: 0px;
+    position: relative;
+    bottom: 10px;
+    text-shadow: 2px 2px lightgray;
+}
+.routine{
+    position: relative;
+    top: 17px;
+    text-align: center;
+    text-shadow: 2px 2px lightgray;
+    color: green;
+}
+.routine-two{
+    text-align: center;
+    text-shadow: 2px 2px lightgray;
+    color: green;
+}
+.boldcaution{
+    color: red;
+    text-shadow: 2px 2px lightgray;
+}
+.ultag{
+    text-shadow: 2px 2px lightgray;
+    color: darkolivegreen;
+}
+.realcaution{
+    text-shadow: 2px 2px lightgray;
+}
+h5::selection{
+    background-color: lightslategray;
+    color: white;
+}
+h3::selection{
+    background-color: lightslategray;
+    color: white;
+}
+li::selection{
+    background-color: lightslategray;
+    color: white;
+}
+span::selection{
+    background-color: lightslategray;
+    color: white;
+}
+.disclaimerone{
+    color: slategray;
+}
